@@ -2,5 +2,9 @@
  ---
 ```Bon soyons honnête c'est plutôt Ronan qui a fait le wiki, mais je me rattrape sur le markdown```
 - `rgb(9, 105, 218)` Voici un tableau qui est beau `rgb(9, 105, 28)f`
+| Investissement| Romain        | Ronan |
+| ------------- |:-------------:| -----:|
+| Le wiki       | 10%           | 90%   |
+| Le markdown   | 100%          | 0%    |
 
 [Un chat](https://user-images.githubusercontent.com/115998889/196212922-6ce9fafb-c6c0-4925-9d4c-067fc6e4019f.jpeg)
