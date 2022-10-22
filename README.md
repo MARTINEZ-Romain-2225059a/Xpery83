@@ -9,7 +9,8 @@
 | Le markdown   | 100%          | 0%    |
 
 >[Un chat](https://user-images.githubusercontent.com/115998889/196212922-6ce9fafb-c6c0-4925-9d4c-067fc6e4019f.jpeg) ~~parce que j'aime les chat~~
-<details>
+
+<cliquer pour avoir plus d'explication>
   <summary>--> La blague est ici <--</summary>
   
   **Un ingénieur Linux, un ingénieur Mac et un ~~ingénieur~~ Microsoft sont en voiture. Un des pneu crève.**
