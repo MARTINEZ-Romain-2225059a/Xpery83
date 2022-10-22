@@ -1,7 +1,7 @@
  #### 👋 Salut, je suis @Xpery83, moi et mon binaume Ronan avons fait un petit wiki pour vous expliquer pourquoi la france est-elle tant haie ?
  ---
 ```Bon soyons honnête c'est plutôt Ronan qui a fait le wiki, mais je me rattrape sur le markdown``` 
-- **Voici un tableau qui est beau**
+- **Voici le tableau de la vérité**
 
 | Investissement| Romain        | Ronan |
 | ------------- |:-------------:| -----:|
