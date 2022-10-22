@@ -11,14 +11,16 @@
 >[Un chat](https://user-images.githubusercontent.com/115998889/196212922-6ce9fafb-c6c0-4925-9d4c-067fc6e4019f.jpeg) ~~parce que j'aime les chat~~
 
 Bref...
-
+- [x] Lien inutile c'est fait
+- [ ] Avoir de l'humour
 <details>
   <summary>--> Cliquez ici pour avoir plus de details <--</summary>
   
   ****
    
-Le wiki est fait en plusieurs parti :
-   - Il explique les différents clichés 
+Le wiki aborde plusieurs points :
+   - Il explique les différents clichés sur la france
+   - Les blagues sur la france 
    
    
   ****
@@ -29,6 +31,6 @@ Le wiki est fait en plusieurs parti :
  <details>
   <summary>--> zut mauvais lien <--</summary>
   
-[Le vrai lien]
+[Le vrai lien]()
    
 </details>
