@@ -5,7 +5,7 @@
 
 | Investissement| Romain        | Ronan |
 | ------------- |:-------------:| -----:|
-| Le wiki       | 10%[^1]       | 90%   |
+| Le wiki       | 5%[^1]       | 95%   |
 | Le markdown   | 100%          | 0%    |
 
 >[Un chat](https://user-images.githubusercontent.com/115998889/196212922-6ce9fafb-c6c0-4925-9d4c-067fc6e4019f.jpeg) ~~parce que j'aime les chat~~
