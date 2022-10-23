@@ -49,7 +49,9 @@ $\forall x \in X, \quad \exists y \leq \epsilon$[^3]
 s = "J'ai un niveau de ouf en python"
 print s
 duCoupJeLeMontre[s] = "oui"
+
 ```
+[![](https://user-images.githubusercontent.com/115998889/197416265-e248cd21-26be-4c29-be25-dbddc2d61532.jpg)](https://www.youtube.com/watch?v=0MhVkKHYUAY)
 
 [^1]: correction des fautes d'ortagraphes, même si mon niveau en orthographe est un entier négatif
 [^2]: genre marrant 
