@@ -45,6 +45,12 @@ $-b \pm \sqrt{b^2 - 4ac} \over 2a$
 $x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}$
 $\forall x \in X, \quad \exists y \leq \epsilon$[^3]
 
+```python
+s = "J'ai un niveau de ouf en python"
+print s
+duCoupJeLeMontre[s] = "oui"
+```
+
 [^1]: correction des fautes d'ortagraphes, même si mon niveau en orthographe est un entier négatif
 [^2]: genre marrant 
 [^3]: j'ai peur en voyant ça
