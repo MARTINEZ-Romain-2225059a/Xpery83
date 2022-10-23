@@ -1,4 +1,4 @@
- #### 👋 Salut, je suis @Xpery83, moi et mon binaume Ronan avons fait un petit wiki sur la répartition de la connection internet dans le monde  ?
+ #### 👋 Salut, je suis @Xpery83, moi et mon binaume Ronan avons fait un petit wiki sur la répartition de la connection internet dans le monde.
  ---
 ```Bon soyons honnête c'est plutôt Ronan qui a fait le wiki, mais je me rattrape sur le markdown``` 
 - **Voici le tableau de la vérité**
