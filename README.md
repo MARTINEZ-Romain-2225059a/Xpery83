@@ -1,4 +1,4 @@
- #### 👋 Salut, je suis @Xpery83, moi et mon binaume Ronan avons fait un petit wiki pour vous expliquer pourquoi la france est-elle tant haie ?
+ #### 👋 Salut, je suis @Xpery83, moi et mon binaume Ronan avons fait un petit wiki sur la répartition de la connection internet dans le monde  ?
  ---
 ```Bon soyons honnête c'est plutôt Ronan qui a fait le wiki, mais je me rattrape sur le markdown``` 
 - **Voici le tableau de la vérité**
@@ -19,8 +19,8 @@ Bref...
   ****
    
 Le wiki aborde plusieurs points :
-   - Il explique les différents clichés sur la france
-   - Les blagues sur la france :+1:
+   - La différence de vitesse de connection entres les pays
+   - Et c'est tout :+1:
    
   ****
 </details>
@@ -34,7 +34,7 @@ Le wiki aborde plusieurs points :
     <details>
   <summary>--> bon ok j'arrête <--</summary>
   
-[Le vrai vrai lien]()
+[Le vrai vrai lien](https://connexioninternetdanslemonde.fandom.com/fr/wiki/Wiki_ConnexionInternetDansLeMonde)
    
 </details>
 </details>
